@@ -18,3 +18,4 @@ _Управление игроком осуществляется с помощ�
 #
 ![Alt Text](https://github.com/AreHumphrey/Game_For_Summer_practice_1st-course/assets/115383388/fc4173db-0460-448a-b432-f50c2bb036a1)
 
+<img src="[/images/animation.gif](https://github.com/AreHumphrey/Game_For_Summer_practice_1st-course/assets/115383388/fc4173db-0460-448a-b432-f50c2bb036a1)" alt="Animated GIF" width="400" height="300">

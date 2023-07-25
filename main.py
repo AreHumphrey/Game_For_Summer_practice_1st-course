@@ -12,7 +12,7 @@ screen_h = 700
 tile_size = 35
 game_over = 0
 main_menu = True
-level = 9
+level = 0
 score = 0
 
 screen = pygame.display.set_mode((screen_w, screen_h))

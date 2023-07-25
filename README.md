@@ -14,9 +14,11 @@ _Управление игроком осуществляется с помощ�
 * _Стрелка вправо - движение вправо_
 * _Пробел - прыжок_
 #
-![image](https://github.com/AreHumphrey/Game_For_Summer_practice_1st-course/assets/115383388/34ba7b69-10f2-4ca8-a618-22187ab3dbc4)
+![image](https://github.com/AreHumphrey/Game_For_Summer_practice_1st-course/assets/115383388/df7c6821-a63e-47b7-b96c-78502c1191f4)
 #
-![image](https://github.com/AreHumphrey/Game_For_Summer_practice_1st-course/assets/115383388/2acc5100-7cf8-43a7-945b-d513db81c58b)
+![image](https://github.com/AreHumphrey/Game_For_Summer_practice_1st-course/assets/115383388/a18b5907-4312-4698-8f4f-b4a80501b5d2)
+
 #
-![image](https://github.com/AreHumphrey/Game_For_Summer_practice_1st-course/assets/115383388/963e22db-c389-4b41-acd3-a90bab3cc9c9)
+![image](https://github.com/AreHumphrey/Game_For_Summer_practice_1st-course/assets/115383388/742b6f50-d19f-43e4-9d85-db6788569ceb)
+
 

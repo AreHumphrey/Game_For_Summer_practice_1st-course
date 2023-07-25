@@ -17,4 +17,6 @@ _Управление игроком осуществляется с помощ�
 ![image](https://github.com/AreHumphrey/Game_For_Summer_practice_1st-course/assets/115383388/34ba7b69-10f2-4ca8-a618-22187ab3dbc4)
 #
 ![image](https://github.com/AreHumphrey/Game_For_Summer_practice_1st-course/assets/115383388/2acc5100-7cf8-43a7-945b-d513db81c58b)
+#
+![image](https://github.com/AreHumphrey/Game_For_Summer_practice_1st-course/assets/115383388/963e22db-c389-4b41-acd3-a90bab3cc9c9)
 

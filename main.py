@@ -12,7 +12,7 @@ screen_h = 700
 tile_size = 35
 game_over = 0
 main_menu = True
-level = 1
+level = 0
 score = 5
 
 screen = pygame.display.set_mode((screen_w, screen_h))
@@ -400,7 +400,7 @@ while run:
         if game_over == 1:
             level += 1
 
-            if level <= 9:
+            if level <= 10:
                 world_data = []
                 world = reset_level(level)
                 game_over = 0

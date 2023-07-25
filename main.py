@@ -16,7 +16,9 @@ level = 0
 score = 5
 
 screen = pygame.display.set_mode((screen_w, screen_h))
-pygame.display.set_caption('Game_summer')
+pygame.display.set_caption('Game_FEFU')
+icon = pygame.image.load("background/fefu_logo.png")
+pygame.display.set_icon(icon)
 
 font_score = pygame.font.SysFont('Bauhaus 93', 20)
 font = pygame.font.SysFont('Bauhaus 93', 60)
